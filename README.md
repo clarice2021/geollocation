@@ -1,2 +1,2 @@
-# geollocation
-this project ins developed in java for made first part of geollocation of objects lost in airports
+# patients_geolocation
+Project to locate patients in order to facilitate their home appointments by medical specialists
